@@ -1,1 +1,2 @@
-udacity-git-course
+#!/bin/bash
+"udacity-git-course"
